@@ -5,7 +5,7 @@ export function Footer() {
     <footer className="border-t border-slate-100 bg-mist">
       <div className="mx-auto max-w-3xl space-y-2 px-4 py-6 text-center text-xs text-slate-500">
         <p className="font-semibold text-navy">GOO ELÉTRICOS</p>
-        <p>Os valores apresentados são ilustrativos e não representam aprovação de crédito.</p>
+        <p>GO ELECTRIC GROUP LTDA - ME - CNPJ 59.344.487/0001-72</p>
         <p className="flex justify-center gap-4">
           <a className="underline hover:text-navy" href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer">Atendimento pelo WhatsApp</a>
           <a className="underline hover:text-navy" href="#/privacidade">Privacidade</a>
