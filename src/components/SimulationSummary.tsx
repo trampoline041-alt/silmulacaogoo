@@ -20,7 +20,7 @@ export function SimulationSummary() {
         <Info className="mt-0.5 shrink-0 text-goo" size={22} aria-hidden />
         <div>
           <p className="font-bold">Simulação comercial</p>
-          <p className="text-sm text-slate-600">Valores ilustrativos. Não é aprovação de crédito.</p>
+          <p className="text-sm text-slate-600">Aprovação de Crédito.</p>
         </div>
       </div>
       <ProductCard showPower />
@@ -46,7 +46,7 @@ export function SimulationSummary() {
         )}
       </section>
       <p className="text-xs leading-relaxed text-slate-500">
-        Valores ilustrativos de uma simulação comercial. As condições finais, a disponibilidade do produto e as formas de pagamento devem ser confirmadas com a equipe de atendimento.
+        As condições finais, a disponibilidade do produto e as formas de pagamento devem ser confirmadas com a equipe de Atendimento.
       </p>
       <WhatsAppButton />
       <p className="flex items-center justify-center gap-1.5 text-xs text-slate-500"><Lock size={13} aria-hidden /> Seu CPF não é enviado nem salvo</p>
