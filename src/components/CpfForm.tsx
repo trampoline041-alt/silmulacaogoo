@@ -38,7 +38,7 @@ export function CpfForm({ onSubmit }: { onSubmit: () => void }) {
       </button>
       <p className="mt-4 flex gap-2 text-xs leading-relaxed text-slate-500">
         <ShieldCheck size={16} className="mt-0.5 shrink-0 text-goo" aria-hidden />
-        <span>O CPF é usado só neste aparelho para liberar a simulação. Não é enviado, salvo ou compartilhado. O atendimento continua pelo WhatsApp com nossa equipe. Isto é uma simulação comercial, não uma aprovação de crédito.</span>
+        <span>O CPF é usado só neste aparelho para liberar a simulação. Não é enviado, salvo ou compartilhado. O atendimento continua pelo WhatsApp com nossa equipe. Isto é uma simulação para aprovação de crédito.</span>
       </p>
     </form>
   );
